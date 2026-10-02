@@ -12,11 +12,11 @@ Every automation below was built, tested, and documented during my 90-day journe
 
 | # | Project | What It Does | Business Outcome | Tools | Demo |
 |---|---------|--------------|------------------|-------|------|
-| 1 | **[Sheets → Gmail Alerts](./../01-sheets-gmail-automation)** | New spreadsheet rows trigger instant email alerts | Never miss a lead/order — response time minutes not hours | Make.com, Google Sheets, Gmail | [Video - Add Link] |
-| 2 | **[Weather → Telegram Bot](./../02-weather-telegram-bot)** | Daily weather delivered to Telegram automatically | First API integration — foundation for any API work | OpenWeatherMap API, Make.com, Telegram Bot API | [Video - Add Link] |
-| 3 | **[Form → Slack Lead Alerts](./../03-form-slack-leads)** | Form submissions ping Slack instantly | Lead follow-up: hours → seconds, zero missed leads | Google Forms, Make.com, Slack API | [Video - Add Link] |
-| 4 | **[AI Inbox Assistant](./../04-ai-inbox-assistant)** | Emails summarized + AI-drafted replies with confidence gate | Inbox triage: 2 hrs/day → 15 min review | Gmail, Gemini 1.5 Flash, Make.com, Telegram | [Video - Add Link] |
-| 5 | **[AI Lead Scoring System](./../05-ai-lead-scoring)** | Leads scored 1-10 against ICP + daily digest of 8+ only | Lead review: 5 hrs/week → 15 min/day | Apollo, Hunter, Sheets, Gemini, Make.com | [Video - Add Link] |
+| 1 | **[Sheets → Gmail Alerts]([./../01-sheets-gmail-automation](https://github.com/aiagentbuilderhq/sheets-gmail-automation))** | New spreadsheet rows trigger instant email alerts | Never miss a lead/order — response time minutes not hours | Make.com, Google Sheets, Gmail | [Video - Add Link] |
+| 2 | **[Weather → Telegram Bot]([./../02-weather-telegram-bot)](https://github.com/aiagentbuilderhq/weather-telegram-bot)** | Daily weather delivered to Telegram automatically | First API integration — foundation for any API work | OpenWeatherMap API, Make.com, Telegram Bot API | [Video - Add Link] |
+| 3 | **[Form → Slack Lead Alerts](aiagentbuilderhq/form-slack-leads)** | Form submissions ping Slack instantly | Lead follow-up: hours → seconds, zero missed leads | Google Forms, Make.com, Slack API | [Video - Add Link] |
+| 4 | **[AI Inbox Assistant]([./../04-ai-inbox-assistant](https://github.com/aiagentbuilderhq/ai-inbox-assistant))** | Emails summarized + AI-drafted replies with confidence gate | Inbox triage: 2 hrs/day → 15 min review | Gmail, Gemini 1.5 Flash, Make.com, Telegram | [Video - Add Link] |
+| 5 | **[AI Lead Scoring System]([./../05-ai-lead-scoring)](https://github.com/aiagentbuilderhq/ai-lead-scoring)** | Leads scored 1-10 against ICP + daily digest of 8+ only | Lead review: 5 hrs/week → 15 min/day | Apollo, Hunter, Sheets, Gemini, Make.com | [Video - Add Link] |
 
 > **Note on cost:** All automations run on free tiers. The tools are free — the build, documentation, and upkeep are what clients pay for. Saves 10-20 hrs/week per workflow.
 
